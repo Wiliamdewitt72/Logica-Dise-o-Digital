@@ -1,2 +1,2 @@
-# Logica-Dise-o-Digital
+# Logica-Diseño-Digital
 Notas de lógica y diseño digital
